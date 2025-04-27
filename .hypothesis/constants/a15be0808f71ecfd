@@ -1,0 +1,4 @@
+# file: /Users/daltonjayaraj/Documents/cs4090_todo_solution/tasks.py
+# hypothesis_version: 6.131.9
+
+['%Y-%m-%d', '%Y-%m-%d %H:%M:%S', '.bak', 'Medium', 'Other', 'category', 'completed', 'created_at', 'description', 'due_date', 'id', 'priority', 'r', 'tasks.json', 'title', 'w']
